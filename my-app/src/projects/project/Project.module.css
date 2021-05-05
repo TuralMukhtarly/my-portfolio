@@ -5,3 +5,10 @@
     flex-direction: column;
     text-align: center;
 }
+.img{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+}

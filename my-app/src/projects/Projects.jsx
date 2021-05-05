@@ -11,6 +11,8 @@ function Projects() {
                 <div className={style.projects}>
                     <Project name={'Название'} description={"Описание"} />
                     <Project name={'Название'} description={"Описание"}/>
+                    <Project name={'Название'} description={"Описание"}/>
+                    <Project name={'Название'} description={"Описание"}/>
                 </div>
             </div>
         </div>

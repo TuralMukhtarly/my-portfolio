@@ -1,18 +1,18 @@
-.skillBlock{
+.contactsBlock{
     min-height: 100vh;
     background-color: rgb(228, 148, 134);
 }
-.skillsContainer{
+.contactsContainer{
     flex-direction: column;
     justify-content: flex-start;
 }
 .title{
     background-color: gray;
 }
-.skills{
+.contacts{
     border: 1px solid;
-    width: 100%;
+    width: 280px;
     display: flex;
-    justify-content: space-between;
     flex-wrap: wrap;
+    flex-direction: column;
 }
