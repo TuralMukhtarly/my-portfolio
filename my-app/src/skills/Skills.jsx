@@ -21,6 +21,18 @@ function Skills() {
                     title={"JAVASCRIPT"}
                     description={"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cupiditate, ex!"}
                     />
+                    <Skill 
+                    title={"JAVASCRIPT"}
+                    description={"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cupiditate, ex!"}
+                    />
+                    <Skill 
+                    title={"JAVASCRIPT"}
+                    description={"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cupiditate, ex!"}
+                    />
+                    <Skill 
+                    title={"JAVASCRIPT"}
+                    description={"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cupiditate, ex!"}
+                    />
                 </div>
             </div>
         </div>

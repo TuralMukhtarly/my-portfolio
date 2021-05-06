@@ -13,6 +13,9 @@ function Projects() {
                     <Project name={'Название'} description={"Описание"}/>
                     <Project name={'Название'} description={"Описание"}/>
                     <Project name={'Название'} description={"Описание"}/>
+                    <Project name={'Название'} description={"Описание"}/>
+                    <Project name={'Название'} description={"Описание"}/>
+
                 </div>
             </div>
         </div>
