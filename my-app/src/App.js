@@ -1,19 +1,22 @@
 import './App.css';
 import Contacts from './contacts/Contacts';
-import Header from './header/Header';
 import Main from './main/Main';
 import Projects from './projects/Projects';
 import Skills from './skills/Skills';
+import { BrowserRouter, Route } from "react-router-dom"
 
 function App() {
   return (
-    <div className="App">
-      <Header/>
-      <Main/>
-      <Skills/>
+    <BrowserRouter>
+      <div className="App">
+        <Route path="/" component={Main} />
+        <Route path="/skill" component={Contacts} />
+        {/* <Main /> */}
+        {/* <Skills/>
       <Projects/>
-      <Contacts/>
-    </div>
+      <Contacts/> */}
+      </div>
+    </BrowserRouter>
   );
 }
 

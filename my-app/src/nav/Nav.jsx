@@ -1,14 +1,14 @@
-
 import React from 'react'
+import { NavLink } from 'react-router-dom'
 import style from './Nav.module.css'
 
 function Nav() {
     return (
         <div className={style.nav}>
-            <a href="%">Главная</a>
-            <a href="%">Скиллы</a>
-            <a href="%">Проекты</a>
-            <a href="%">Контакты</a>
+            <NavLink to="/">Главная</NavLink>
+            <NavLink to="/skill">Скиллы</NavLink>
+            <NavLink to="#">Проекты</NavLink>
+            <NavLink to="#">Контакты</NavLink>
         </div>
     )
 }
