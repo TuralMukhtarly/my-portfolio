@@ -1,10 +1,11 @@
 .mainBlock{
     height: 100vh;
-    background-color: rgb(150, 143, 143);}
+    background-color: rgb(29, 128, 128);
+}
 
 
 .text{
-    width: 400px;
+    width: 300px;
     background-color: thistle;
 }
 
@@ -12,10 +13,4 @@
     width: 300px;
     height: 400px;
     background-color: thistle;
-}
-.btn{
-    background-color: rgb(90, 87, 87);
-    color: white;
-    width: 150px;
-    height: 50px;
 }
