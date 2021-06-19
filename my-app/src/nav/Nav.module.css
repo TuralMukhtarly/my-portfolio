@@ -1,4 +1,9 @@
 .nav{
     display: flex;
-    justify-content: end;
+    justify-content: flex-end;
+}
+.nav a{
+    margin: 0 10px 0 10px;
+    text-decoration: none;
+    color: white;
 }

@@ -8,9 +8,8 @@ function Main() {
             <div className={styleContainer.container}>
 
                 <div className={style.text}>
-                    <span>Hi</span>
-                    <h1>I'am Tural</h1>
-                    <p>FrontEnd Developer</p>
+                    <h1>Hello, I'm Tural Mukhtarly</h1>
+                    <h3>Front-End Developer</h3>
                 </div>
 
                 <div className={style.photo}>
